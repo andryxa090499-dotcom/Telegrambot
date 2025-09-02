@@ -6,7 +6,7 @@ import random
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
-TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')
+TOKEN = os.environ.get('8233832519:AAEkyNTcW11SrVFcOjm_nYGkZQnEA8D3TA4')
 
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
